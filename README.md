@@ -1,2 +1,2 @@
 # pierretiengou.github.io
-Personal website
+Personal webpage
