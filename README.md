@@ -22,17 +22,19 @@ Modeling regional impacts of irrigation on the water cycle and atmospheric bound
 ## Conference presentations
 * **P. Tiengou**, A. Ducharne, and F. Cheruy, "Regional Impacts of Simulated Irrigation on ABL Structure in an Earth System Model.", _American Meteorological Society’s 25th Symposium on Boundary Layers and Turbulence_, Jun. 2025
 * **P. Tiengou**, A. Ducharne, and F. Cheruy, "Etude régionale des impacts simulés de l’irrigation sur les interactions surface-atmosphère", _Journée de Modélisation des Surfaces Continentales_, Jun. 2024.
-* **P. Tiengou**, A. Ducharne, F. Cheruy, Y. Meurdesoif, and P. Arboleda, "Regional impacts of simulated irrigation in the IPSL climate model", _EGU24_, Mar. 2024. doi:10.5194/egusphere-egu24-6236.
+* **P. Tiengou**, A. Ducharne, F. Cheruy, Y. Meurdesoif, and P. Arboleda, "Regional impacts of simulated irrigation in the IPSL climate model", _EGU24_, Mar. 2024. doi:https://doi.org/10.5194/egusphere-egu24-6236, Apr. 2024
 * **P. Tiengou**, A. Ducharne, and F. Cheruy, "Étude régionale des impacts simulés de l’irrigation sur la couche limite atmosphérique", _Ateliers de Modélisation de l’Atmosphère_, Jan. 2024.
 
 # Additional experience
-* Teaching assistant at Sorbonne Université, UFR TEB (Terre, Environnement, Biodiversité).
+* Teaching assistant at Sorbonne Université, UFR TEB (Terre, Environnement, Biodiversité), for two university years (2023-2024 and 2024-2025).
 * Co-supervision (with Frédérique Cheruy) of a Masters student's internship on irrigation and climate change (Mariame Maiga).
-* Representing PhD-students at the Conseil de Laboratoire (METIS).
-* Member of the LMD communcation team (website and [LinkedIn account](https://www.linkedin.com/company/laboratoire-de-m%C3%A9t%C3%A9orologie-dynamique/)) for the [EMC3 team](https://emc3.lmd.jussieu.fr/en).
+* Participation in the [MOSAI](https://mosai.aeris-data.fr/) observation campaign (August 2023).
+* Participation in the [DEPHY](https://www.umr-cnrm.fr/spip.php?article1183&lang=en) collaborative workshops on model parameterizations (2023 and 2024).
+* Representing PhD students at the METIS Conseil de Laboratoire (2025).
+* Member of the LMD communcation team ([website](https://www.lmd.ipsl.fr/en/home-2/) and [LinkedIn account](https://www.linkedin.com/company/laboratoire-de-m%C3%A9t%C3%A9orologie-dynamique/)) for the [EMC3 team](https://emc3.lmd.jussieu.fr/en) (2024-2025).
 
 # Education
 **Masters Degree in Exectutive Engineering, Mines Paris - PSL (2016-2020)** 
- * Very diverse curriculum in theoretical and applied sciences
+ * Very diverse curriculum in theoretical and applied sciences.
  * Erasmus semester in Chalmers University (Göteborg, Sweden).
  * Professional gap year (2018-2019) to complete 6-months internships in Cambridge (USA) and Medellin (Colombia).
