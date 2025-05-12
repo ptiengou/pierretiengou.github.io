@@ -32,6 +32,7 @@ Modeling regional impacts of irrigation on the water cycle and atmospheric bound
 * Participation in the [DEPHY](https://www.umr-cnrm.fr/spip.php?article1183&lang=en) collaborative workshops on model parameterizations (2023 and 2024).
 * Representing PhD students at the METIS Conseil de Laboratoire (2025).
 * Member of the LMD communcation team ([website](https://www.lmd.ipsl.fr/en/home-2/) and [LinkedIn account](https://www.linkedin.com/company/laboratoire-de-m%C3%A9t%C3%A9orologie-dynamique/)) for the [EMC3 team](https://emc3.lmd.jussieu.fr/en) (2024-2025).
+* Involvement with high school pupils from Lycée Romain Rolland in the [Prometeruse](https://www.prometeruse.org/) project to discuss the causes and effects of climate change and possible pathways to emission reduction.
 
 # Education
 **Masters Degree in Exectutive Engineering, Mines Paris - PSL (2016-2020)** 
