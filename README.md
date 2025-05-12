@@ -7,10 +7,10 @@
 Modeling regional impacts of irrigation on the water cycle and atmospheric boundary layer in an Earth System Model.
 
 * Working at the interface between hydrology and atmospheric science on the interactions between land surface and the atmospheric boundary layer.
-* Evaluation and calibration of a new river routing and irrigation scheme in the ORCHIDEE Land Surface Model
-* Running regional coupled simulations with the [IPSL Climate Model](https://cmc.ipsl.fr/ipsl-climate-models/) atmosphere and land surface components ([ICOLMDZ](https://lmdz.lmd.jussieu.fr/) and [ORCHIDEE](https://orchidee.ipsl.fr/you-orchidee/))
-* Annual and seasonal analysis of the effects of simulated irrigation on the regional climate and moisture recycling
-* Diurnal-scale study of the effects of irrigation on the atmopheric boundary layer, comparison of the model outputs to observations of the [LIAISE](https://liaise.aeris-data.fr/) field campaign.
+* Evaluation and calibration of a new river routing and irrigation scheme in the ORCHIDEE Land Surface Model.
+* Running regional coupled simulations with the [IPSL Climate Model](https://cmc.ipsl.fr/ipsl-climate-models/) atmosphere and land surface components ([ICOLMDZ](https://lmdz.lmd.jussieu.fr/) and [ORCHIDEE](https://orchidee.ipsl.fr/you-orchidee/)).
+* Annual and seasonal analysis of the effects of simulated irrigation on the regional climate and moisture recycling.
+* Diurnal-scale study of the effects of irrigation on the atmopheric boundary layer, comparison of model outputs to observations of the [LIAISE](https://liaise.aeris-data.fr/) field campaign.
 
 ## Journal articles
 ### Published
@@ -27,7 +27,7 @@ Modeling regional impacts of irrigation on the water cycle and atmospheric bound
 
 # Additional experience
 * Teaching assistant at Sorbonne Université, UFR TEB (Terre, Environnement, Biodiversité).
-* Supervision of a Masters student's internship on irrigation and climate change (Mariame Maiga).
+* Co-supervision (with Frédérique Cheruy) of a Masters student's internship on irrigation and climate change (Mariame Maiga).
 * Representing PhD-students at the Conseil de Laboratoire (METIS).
 * Member of the LMD communcation team (website and [LinkedIn account](https://www.linkedin.com/company/laboratoire-de-m%C3%A9t%C3%A9orologie-dynamique/)) for the [EMC3 team](https://emc3.lmd.jussieu.fr/en).
 
