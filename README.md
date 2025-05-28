@@ -1,8 +1,8 @@
 # Pierre Tiengou
-**3rd-year PhD candidate at Sorbonne Université (Paris) within two [IPSL](https://www.ipsl.fr/en/home-en/) labs under the supervision of:**
+**3rd-year PhD candidate at Sorbonne Université (Paris) within two [IPSL](https://www.ipsl.fr/en/home-en/) labs under the supervision of**
 * [Agnès Ducharne](https://www.metis.upmc.fr/~ducharne/) at [METIS](https://www.metis.upmc.fr/)
 * [Frédérique Cheruy](https://web.lmd.jussieu.fr/~cheruy/PUBLI/CVISMAR2019.pdf) at  [LMD](https://www.lmd.ipsl.fr/en/home-2/)
-* 
+
 # Research 
 Modeling regional impacts of irrigation on the water cycle and atmospheric boundary layer in an Earth System Model.
 
