@@ -4,7 +4,7 @@
 * [Frédérique Cheruy](https://web.lmd.jussieu.fr/~cheruy/PUBLI/CVISMAR2019.pdf) at  [LMD](https://www.lmd.ipsl.fr/en/home-2/)
 
 # Research 
-Modeling regional impacts of irrigation on the water cycle and atmospheric boundary layer in an Earth System Model.
+Modelling regional impacts of irrigation on the water cycle and atmospheric boundary layer in an Earth System Model.
 
 * Working at the interface between hydrology and atmospheric science on the interactions between land surface and the atmospheric boundary layer.
 * Evaluation and calibration of a new river routing and irrigation scheme in the ORCHIDEE Land Surface Model.
