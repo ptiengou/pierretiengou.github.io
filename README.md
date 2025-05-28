@@ -17,8 +17,11 @@ Modeling regional impacts of irrigation on the water cycle and atmospheric bound
 * É. Vignon, K. Arjdal, F. Cheruy, et al., "Designing a fully-tunable and versatile TKE-l turbulence parameterization for atmospheric models", _Journal of Advances in Modeling Earth Systems_, doi:https://doi.org/10.1029/2024MS004400.
 
 ### In review
-* **P. Tiengou**, A. Ducharne, and F. Cheruy, "Regional impacts of irrigation on the atmospheric and terrestrial water cycle using ESM-like physics" _(submitted to Earth System Dynamics)_
+* **P. Tiengou**, A. Ducharne, and F. Cheruy, "Modelling regional impacts of irrigation on the atmospheric and terrestrial water cycle using Earth System Model physics" _(submitted to Earth System Dynamics)_
 
+### Contribution to peer-review
+* Assisted Frédérique Cheruy in reviewing the following article: Qin, H., Klein, S. A., Ma, H.-Y., Van Weverberg, K., Feng, Z., Chen, X., et al. (2023). Summertime near-surface temperature biases over the central United States in convection-permitting simulations. Journal of Geophysical Research: Atmospheres, 128, e2023JD038624. https://doi.org/10.1029/2023JD038624
+  
 ## Conference presentations
 * **P. Tiengou**, A. Ducharne, and F. Cheruy, "Regional Impacts of Simulated Irrigation on ABL Structure in an Earth System Model.", _American Meteorological Society’s 25th Symposium on Boundary Layers and Turbulence_, Jun. 2025
 * **P. Tiengou**, A. Ducharne, and F. Cheruy, "Etude régionale des impacts simulés de l’irrigation sur les interactions surface-atmosphère", _Journée de Modélisation des Surfaces Continentales_, Jun. 2024.
