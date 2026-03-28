@@ -6,7 +6,10 @@ Completed in December 2025 at Sorbonne Université (Paris), within two [IPSL](ht
 * [Agnès Ducharne](https://www.metis.upmc.fr/~ducharne/) at [METIS](https://www.metis.upmc.fr/)
 * [Frédérique Cheruy](https://web.lmd.jussieu.fr/~cheruy/PUBLI/CVISMAR2019.pdf) at  [LMD](https://www.lmd.ipsl.fr/en/home-2/)
 
-[Manuscript](https://hal.science/tel-05538463/): Modelling the regional impacts of irrigation on the climate, water cycle, and atmospheric boundary layer over the Iberian Peninsula. 
+[Thesis manuscript](https://hal.science/tel-05538463/): Modelling the regional impacts of irrigation on the climate, water cycle, and atmospheric boundary layer over the Iberian Peninsula. 
+
+[ORCID](https://orcid.org/0009-0004-6699-4105)
+[ResearchGate](https://www.researchgate.net/profile/Pierre-Tiengou)
 
 # Research 
 
