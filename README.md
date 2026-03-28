@@ -1,7 +1,7 @@
 # Pierre Tiengou
 **PhD in hydrology and climate modelling.**
 
-Completed in December 2025) at Sorbonne Université (Paris), within two [IPSL](https://www.ipsl.fr/en/home-en/) labs under the supervision of
+Completed in December 2025 at Sorbonne Université (Paris), within two [IPSL](https://www.ipsl.fr/en/home-en/) labs under the supervision of
 
 * [Agnès Ducharne](https://www.metis.upmc.fr/~ducharne/) at [METIS](https://www.metis.upmc.fr/)
 * [Frédérique Cheruy](https://web.lmd.jussieu.fr/~cheruy/PUBLI/CVISMAR2019.pdf) at  [LMD](https://www.lmd.ipsl.fr/en/home-2/)
