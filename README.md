@@ -1,16 +1,19 @@
 # Pierre Tiengou
-**PhD in hydrology and climate modelling.
+**PhD in hydrology and climate modelling.**
 
-Completed in December 2025) at Sorbonne Université (Paris), within two [IPSL](https://www.ipsl.fr/en/home-en/) labs under the supervision of**
+Completed in December 2025) at Sorbonne Université (Paris), within two [IPSL](https://www.ipsl.fr/en/home-en/) labs under the supervision of
+
 * [Agnès Ducharne](https://www.metis.upmc.fr/~ducharne/) at [METIS](https://www.metis.upmc.fr/)
 * [Frédérique Cheruy](https://web.lmd.jussieu.fr/~cheruy/PUBLI/CVISMAR2019.pdf) at  [LMD](https://www.lmd.ipsl.fr/en/home-2/)
 
+[Manuscript](https://hal.science/tel-05538463/): Modelling the regional impacts of irrigation on the climate, water cycle, and atmospheric boundary layer over the Iberian Peninsula. 
+
 # Research 
-Modelling regional impacts of irrigation on the water cycle and atmospheric boundary layer in an Earth System Model.
 
 * Working at the interface between hydrology and atmospheric science on the interactions between land surface and the atmospheric boundary layer.
 * Evaluation and calibration of a new river routing and irrigation scheme in the ORCHIDEE Land Surface Model.
 * Running regional coupled simulations with the [IPSL Climate Model](https://cmc.ipsl.fr/ipsl-climate-models/) atmosphere and land surface components ([ICOLMDZ](https://lmdz.lmd.jussieu.fr/) and [ORCHIDEE](https://orchidee.ipsl.fr/you-orchidee/)).
+* As one of the first users, evaluation and calibration of a new regional climate model (ICOLMDZOR LAM).
 * Annual and seasonal analysis of the effects of simulated irrigation on the regional climate and moisture recycling.
 * Diurnal-scale study of the effects of irrigation on the atmopheric boundary layer, comparison of model outputs to observations of the [LIAISE](https://liaise.aeris-data.fr/) field campaign.
 
