@@ -23,12 +23,13 @@ Completed in December 2025 at Sorbonne Université (Paris), within two [IPSL](ht
 ## Journal articles
 ### Published
 * É. Vignon, K. Arjdal, F. Cheruy, et al., "Designing a fully-tunable and versatile TKE-l turbulence parameterization for atmospheric models", _Journal of Advances in Modeling Earth Systems_, doi:https://doi.org/10.1029/2024MS004400.
+**P. Tiengou**, A. Ducharne, and F. Cheruy, "Regional impacts of irrigation on the atmospheric and terrestrial water cycle of the Iberian Peninsula in a climate model." _(submitted to Earth System Dynamics in May 2025, awaiting editor decision following minor revisions)_
 
 ### In review
-* **P. Tiengou**, A. Ducharne, and F. Cheruy, "Regional impacts of irrigation on the atmospheric and terrestrial water cycle of the Iberian Peninsula in a climate model." _(submitted to Earth System Dynamics in May 2025, awaiting editor decision following minor revisions)_
 
 ### Contribution to peer-review
 * Assisted Frédérique Cheruy in reviewing the following article: Qin, H., Klein, S. A., Ma, H.-Y., Van Weverberg, K., Feng, Z., Chen, X., et al. (2023). Summertime near-surface temperature biases over the central United States in convection-permitting simulations. Journal of Geophysical Research: Atmospheres, 128, e2023JD038624. https://doi.org/10.1029/2023JD038624
+* Reviewed the following article :  Al-Yaari, A., et al. (2026) : Past and future projected radiative effects from irrigation, Earth Syst. Dynam., 17, 1629–1647, https://doi.org/10.5194/esd-17-1629-2026, 2026.
   
 ## Conference presentations
 * **P. Tiengou**, A. Ducharne, and F. Cheruy, "Regional Impacts of Simulated Irrigation on ABL Structure in an Earth System Model.", _American Meteorological Society’s 25th Symposium on Boundary Layers and Turbulence_, Jun. 2025
