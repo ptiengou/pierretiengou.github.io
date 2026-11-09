@@ -23,7 +23,7 @@ Completed in December 2025 at Sorbonne Université (Paris), within two [IPSL](ht
 ## Journal articles
 ### Published
 * É. Vignon, K. Arjdal, F. Cheruy, et al., "Designing a fully-tunable and versatile TKE-l turbulence parameterization for atmospheric models", _Journal of Advances in Modeling Earth Systems_, doi:https://doi.org/10.1029/2024MS004400.
-**P. Tiengou**, A. Ducharne, and F. Cheruy, "Regional impacts of irrigation on the atmospheric and terrestrial water cycle of the Iberian Peninsula in a climate model." _(submitted to Earth System Dynamics in May 2025, awaiting editor decision following minor revisions)_
+* **P. Tiengou**, A. Ducharne, and F. Cheruy, "Regional impacts of irrigation on the atmospheric and terrestrial water cycle of the Iberian Peninsula in a climate model." _(submitted to Earth System Dynamics in May 2025, awaiting editor decision following minor revisions)_
 
 ### In review
 
